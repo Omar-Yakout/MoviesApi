@@ -1,0 +1,29 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories.
+*.vs/
+*.vscode/
+*.user
+*.suo
+*.bak
+*.dbmdl
+*.log
+*.tlog
+*.v12.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+*.cachefile
+*.class
+*.tlog
+*.ilk
+*.obj
+*.ipch
+*.pch
+*.tmp
+*.obj
+*.o
+*.gch
+bin/
+obj/
+TestResults/
